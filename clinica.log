@@ -1,0 +1,190 @@
+[2024-09-27 20:21:32] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:21:32] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:21:32] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:21:32] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:21:32] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:21:32] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:21:32] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:21:32] [ERROR] [DentistDaoH2:92] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ? [42104-232]
+[2024-09-27 20:21:33] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:21:33] [ERROR] [DentistDaoH2:122] ErrorTable "DENTIST" not found (this database is empty); SQL statement:
+UPDATE DENTIST SET REGISTRATION=?, NAME=?, LASTNAME=? WHERE ID=? [42104-232]
+[2024-09-27 20:21:33] [ERROR] [DentistDaoH2:151] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+DELETE FROM DENTIST WHERE ID=? [42104-232]
+[2024-09-27 20:21:33] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:21:33] [ERROR] [DentistDaoH2:194] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST [42104-232]
+[2024-09-27 20:22:58] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:22:58] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:22:58] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:22:58] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:22:58] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:22:58] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:22:58] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:22:58] [ERROR] [DentistDaoH2:92] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ? [42104-232]
+[2024-09-27 20:22:58] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:22:58] [ERROR] [DentistDaoH2:122] ErrorTable "DENTIST" not found (this database is empty); SQL statement:
+UPDATE DENTIST SET REGISTRATION=?, NAME=?, LASTNAME=? WHERE ID=? [42104-232]
+[2024-09-27 20:22:59] [ERROR] [DentistDaoH2:151] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+DELETE FROM DENTIST WHERE ID=? [42104-232]
+[2024-09-27 20:22:59] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:22:59] [ERROR] [DentistDaoH2:194] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES (?,?,?) [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:92] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ? [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:122] ErrorTable "DENTIST" not found (this database is empty); SQL statement:
+UPDATE DENTIST SET REGISTRATION=?, NAME=?, LASTNAME=? WHERE ID=? [42104-232]
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:151] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+DELETE FROM DENTIST WHERE ID=? [42104-232]
+[2024-09-27 20:27:16] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:27:16] [ERROR] [DentistDaoH2:194] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:92] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ? [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:122] ErrorTable "DENTIST" not found (this database is empty); SQL statement:
+UPDATE DENTIST SET REGISTRATION=?, NAME=?, LASTNAME=? WHERE ID=? [42104-232]
+[2024-09-27 20:32:04] [ERROR] [DentistDaoH2:151] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+DELETE FROM DENTIST WHERE ID=? [42104-232]
+[2024-09-27 20:32:04] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:32:05] [ERROR] [DentistDaoH2:194] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:55] ERROR: Table "DENTIST" not found (this database is empty); SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:92] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST WHERE ID = ? [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:122] ErrorTable "DENTIST" not found (this database is empty); SQL statement:
+UPDATE DENTIST SET REGISTRATION=?, NAME=?, LASTNAME=? WHERE ID=? [42104-232]
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:151] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+DELETE FROM DENTIST WHERE ID=? [42104-232]
+[2024-09-27 20:33:15] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:33:15] [ERROR] [DentistDaoH2:194] Error: Table "DENTIST" not found (this database is empty); SQL statement:
+SELECT * FROM DENTIST [42104-232]
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:19] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:19] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:19] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:34:19] [ERROR] [DentistDaoH2:122] ErrorCannot invoke "java.lang.Integer.intValue()" because the return value of "model.Dentist.getId()" is null
+[2024-09-27 20:34:19] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 20:34:19] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:34:55] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:55] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:55] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:55] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:56] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:34:56] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:34:56] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:34:56] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:34:56] [ERROR] [DentistDaoH2:122] ErrorCannot invoke "java.lang.Integer.intValue()" because the return value of "model.Dentist.getId()" is null
+[2024-09-27 20:34:56] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 20:34:56] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:35:32] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:35:32] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:35:33] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:35:33] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:35:33] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:35:33] [ERROR] [DentistDaoH2:55] ERROR: Error de Sintaxis en sentencia SQL "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME VALUES(?,?,?) [42001-232]
+[2024-09-27 20:35:33] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:35:33] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:35:33] [ERROR] [DentistDaoH2:122] ErrorCannot invoke "java.lang.Integer.intValue()" because the return value of "model.Dentist.getId()" is null
+[2024-09-27 20:35:33] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 20:35:33] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:36:17] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@5e0826e7
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@47af7f3d
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@4cc451f2
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:86] Consultamos el odontologo con id: 2 es: model.Dentist@72967906
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:36:18] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 1 ,matricula: 132 ,nombre: Loisi ,apellido: Pizango
+[2024-09-27 20:36:18] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 3 ,matricula: 543 ,nombre: Nelia ,apellido: Lozano
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@5e0826e7
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@47af7f3d
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@4cc451f2
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:86] Consultamos el odontologo con id: 2 es: model.Dentist@72967906
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 20:36:44] [WARN ] [DentistDaoH2:148] Cudiado se elimino el odontologo con id: 2
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 1 ,matricula: 132 ,nombre: Loisi ,apellido: Pizango
+[2024-09-27 20:36:44] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 3 ,matricula: 543 ,nombre: Nelia ,apellido: Lozano
+[2024-09-27 20:56:52] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:56:52] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@45385f75
+[2024-09-27 20:59:03] [INFO ] [DentistDaoH2:38] Se inicio una operacion de guardado de odontólogo.
+[2024-09-27 20:59:03] [INFO ] [DentistDaoH2:51] Este es el odontólogo que se guardo: model.Dentist@9816741
+[2024-09-27 21:00:01] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 21:00:02] [INFO ] [DentistDaoH2:86] Consultamos el odontologo con id: 1 es: model.Dentist@7e990ed7
+[2024-09-27 21:02:38] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 21:04:21] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 21:04:54] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 21:05:54] [INFO ] [DentistDaoH2:108] Iniciando la actualizacion de un odontólogo
+[2024-09-27 21:07:35] [INFO ] [DentistDaoH2:71] Iniciando la bsuqueda de un odontologo
+[2024-09-27 21:08:45] [INFO ] [DentistDaoH2:168] Iniciando la busqueda de todos los odontólogos
+[2024-09-27 21:08:45] [INFO ] [DentistDaoH2:188] Encontramos los odontologos con ID: 1 ,matricula: 2321 ,nombre: wilfredo jose ,apellido: Lozano

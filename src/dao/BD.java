@@ -10,9 +10,9 @@ public class BD {
             "CREATE TABLE DENTIST "
             + "("
             + " ID INT AUTO_INCREMENT PRIMARY KEY,"
-            + "REGISTRATION INT NOT NUL, "
-            + "NAME VARCHAR(100) NOT NULL, "
-            + "LASTNAME VARCHAR(100) NOT NULL"
+            + " REGISTRATION INT NOT NULl, "
+            + " NAME VARCHAR(100) NOT NULL, "
+            + " LASTNAME VARCHAR(100) NOT NULL"
             + ")";
 
     private static final String  SQL_TABLE_CREATE_PATIENT = ("DROP TABLE IF EXISTS PATIENT; ") +

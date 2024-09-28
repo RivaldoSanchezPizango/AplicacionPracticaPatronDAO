@@ -16,8 +16,8 @@ public class DentistDaoH2 implements IDao<Dentist> {
 
     private static final Logger LOGGER = Logger.getLogger(DentistDaoH2.class);
 
-    private  static final  String SQL_INSERT = "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME" +
-            " VALUES (?,?,?)";
+    private  static final  String SQL_INSERT = "INSERT INTO DENTIST (REGISTRATION, NAME, LASTNAME)" +
+            " VALUES(?,?,?)";
 
     private static final String SQL_SELECT = "SELECT * FROM DENTIST WHERE ID = ?";
 

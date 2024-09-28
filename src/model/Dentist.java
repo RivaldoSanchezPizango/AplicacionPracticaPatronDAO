@@ -14,6 +14,9 @@ public class Dentist {
         this.lastName = lastName;
     }
 
+    public Dentist() {
+    }
+
     public Dentist (Integer registration, String name, String lastName) {
         this.registration = registration;
         this.name = name;
